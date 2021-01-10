@@ -1,0 +1,12 @@
+#post {
+  border: 1px solid #bebebe;
+  border-radius: 5px;
+}
+
+#post:hover {
+  cursor: pointer;
+}
+
+#brand {
+  font-size: 30px;
+}
