@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+* {
+  font-family: 'Inter', sans-serif;
+}
+
 #post {
   border: 1px solid #bebebe;
   border-radius: 5px;
